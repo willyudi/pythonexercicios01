@@ -3,4 +3,5 @@
 x = int(input ('1o. número inteiro: '))
 y = int(input ('2o. número inteiro: '))
 print ('A soma dos números é: ' + str(x + y))
+#só acrescentando texto
 #testando o guithub
